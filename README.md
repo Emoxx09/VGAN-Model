@@ -4,6 +4,13 @@ This is the official documentation of the VGAN Model, a Generative Adversarial N
 
 To access the full codebase and dataset used for the model, please contact ccs@uic.edu.ph.
 
+__________________
+## Tools Needed
+- Python
+- FFMPEG
+- Tensorflow
+__________________
+
 ## Data Collection
 
 The gathered videos for the Philippine Violence Dataset is stored in a .csv file. There, each videos are named uniquely.
